@@ -21,7 +21,16 @@ The objective is to implement a classifier with a high accuracy that the bank ca
     weighted avg      0.84      0.85      0.84     14028
 
 ## Bonus(es):
-We are also interested in finding customers who are more likely to buy the investment product. Determine the segment(s) of customers our client should prioritize.
-- I examined graphs and i determined segment of customers. Segments of customers as shown below
+1)We are also interested in finding customers who are more likely to buy the investment product. Determine the segment(s) of customers our client should prioritize.
+- I examined graphs and i determined segment of customers. Segments of customers as shown below :
 
-Cellular Contact, Secondary Education, Homeowner, Blue-collar or Management, No-loan, Maried, May-July Months.      
+  Cellular Contact, Secondary Education, Homeowner, Blue-collar or Management, No-loan, Maried, May-July Months.      
+
+2)What makes the customers buy? Tell us which feature we should be focusing more on.
+
+-After the analysis, the most valuable customer base should be retained and the customers in the segment closest to these customers should be contacted via cellular communication.Digital marketing techniques should be worked.
+
+## Outputs:
+
+![alt text](/Output_graphs/Figure_11.png)
+
