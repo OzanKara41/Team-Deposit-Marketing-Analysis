@@ -33,4 +33,7 @@ The objective is to implement a classifier with a high accuracy that the bank ca
 ## Outputs:
 
 ![alt text](/Output_graphs/Figure_11.png)
+![alt text](/Output_graphs/Job-count.png) ![alt text](/Output_graphs/Education-count.png)
+![alt text](/Output_graphs/Housing-count.png) ![alt text](/Output_graphs/Contact-count.png)
+
 
